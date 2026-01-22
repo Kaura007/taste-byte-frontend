@@ -1,2 +1,2 @@
 
-export const API_BASE_URL = import.meta.env.VITE_API_URL || "https://taste-byte-frontend.vercel.app/";
+export const API_BASE_URL = import.meta.env.VITE_API_URL || "https://taste-byte-backend.vercel.app/";
