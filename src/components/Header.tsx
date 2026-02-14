@@ -16,7 +16,7 @@ const Header = () => {
           onClick={() => navigate('/')}
           className="text-2xl font-bold text-gradient cursor-pointer hover:opacity-80 transition-opacity"
         >
-          ByteMonk
+          Taste-Byte
         </button>
         
         {location.pathname !== '/cart' && location.pathname !== '/checkout' && (
