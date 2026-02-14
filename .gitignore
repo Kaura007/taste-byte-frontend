@@ -1,2 +1,11 @@
 .env.development
 .env.production
+
+# dependencies
+/node_modules
+
+# build output
+/dist
+
+# vite
+.vite

@@ -76,7 +76,7 @@ const Home = () => {
         </div>
 
         <div className="relative z-10 container text-center space-y-6 animate-fade-in">
-          <h1 className="text-5xl md:text-7xl font-bold text-gradient">ByteMonk</h1>
+          <h1 className="text-5xl md:text-7xl font-bold text-gradient">Taste-Byte</h1>
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
             Experience culinary excellence with our signature dishes
           </p>
